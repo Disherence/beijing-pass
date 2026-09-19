@@ -171,7 +171,7 @@ journalctl -u beijing-pass -f
 
 ### 容器
 
-仓库里有 `Dockerfile`，构建与运行：
+本地构建与运行：
 
 ```bash
 docker build -t beijing-pass .
@@ -182,6 +182,26 @@ docker run -d --name beijing-pass -p 3000:3000 \
 ```
 
 凭证与快照都写在挂载出来的 `/app/data` 里，容器重建不丢。应用内部按北京时间计算日期，`TZ` 只影响日志可读性。
+
+### 用 GitHub 构建镜像
+
+推送到 `main` 或打 `v*` 标签时，`.github/workflows/ci.yml` 会自动：
+
+1. 跑调度器回归测试与接口冒烟测试（mock 模式，不请求真实接口）
+2. 构建镜像，导出为工作流产物 `beijing-pass-image`（可直接 `docker load`）
+3. 尝试推送到 GHCR：`ghcr.io/disherence/beijing-pass`
+
+第 3 步是尽力而为。如果日志里出现「推送失败，请检查仓库的 Packages 权限设置」的 warning，说明当前账号的包命名空间策略不允许 `GITHUB_TOKEN` 写入，此时用产物部署即可：
+
+```bash
+# 从该次运行的 Artifacts 下载 beijing-pass-image.tar.gz
+docker load < beijing-pass-image.tar.gz
+docker run -d --name beijing-pass -p 3000:3000 \
+  -v /path/to/data:/app/data \
+  ghcr.io/disherence/beijing-pass:main
+```
+
+想启用 GHCR 推送，需要在 GitHub 上确认：仓库 `Settings → Actions → General → Workflow permissions` 允许读写，以及账号层面允许 Actions 创建包。
 
 ## 开发与测试
 

@@ -62,13 +62,39 @@ jobs:
             type=semver,pattern={{major}}.{{minor}}
             type=sha,format=short
 
-      # PR 只验证能否构建，不推送
-      - name: 构建并推送
+      # 先把镜像构建出来并载入本地，这一步不依赖任何仓库权限
+      - name: 构建镜像
         uses: docker/build-push-action@v6
         with:
           context: .
-          push: ${{ github.event_name != 'pull_request' }}
+          load: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
           cache-from: type=gha
           cache-to: type=gha,mode=max
+
+      # 无论注册表是否可用，都产出一份可直接 docker load 的镜像文件
+      - name: 导出镜像文件
+        run: |
+          FIRST_TAG=$(echo "${{ steps.meta.outputs.tags }}" | head -n1)
+          docker save "$FIRST_TAG" | gzip -9 > beijing-pass-image.tar.gz
+          ls -lh beijing-pass-image.tar.gz
+
+      - name: 上传镜像产物
+        uses: actions/upload-artifact@v4
+        with:
+          name: beijing-pass-image
+          path: beijing-pass-image.tar.gz
+          retention-days: 30
+
+      # GHCR 推送是尽力而为：部分账号的包命名空间策略会拒绝 GITHUB_TOKEN 写入，
+      # 那种情况下上面的镜像产物仍然可用，不让整条流水线变红
+      - name: 推送到 GHCR
+        if: github.event_name != 'pull_request'
+        continue-on-error: true
+        run: |
+          echo "${{ steps.meta.outputs.tags }}" | while read -r tag; do
+            [ -n "$tag" ] || continue
+            echo "推送 $tag"
+            docker push "$tag" || echo "::warning::推送 $tag 失败，请检查仓库的 Packages 权限设置"
+          done
