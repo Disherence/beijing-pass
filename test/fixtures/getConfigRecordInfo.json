@@ -1,0 +1,19 @@
+{
+  "code": 200,
+  "msg": "查询互联网规则配置成功",
+  "data": {
+    "sqsj": [],
+    "yhbdsx": "3",
+    "clbdsx": "3",
+    "smrzkg": "0",
+    "hbcxkg": "0",
+    "ocrkg": "0",
+    "txrkg": "0",
+    "tssqkg": "0",
+    "tssqgz": "0",
+    "tsddkg": "0",
+    "tsddgz": "0",
+    "homePopup": "1"
+  },
+  "from": "v2"
+}

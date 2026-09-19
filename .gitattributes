@@ -1,0 +1,11 @@
+# 仓库内统一用 LF：shell 脚本带 CRLF 在 Linux 上会执行失败
+* text=auto eol=lf
+
+# 二进制文件不做换行转换
+*.png binary
+*.jpg binary
+*.ico binary
+
+# GitHub 语言统计：把前端静态资源排除在代码统计外
+public/*.css linguist-detectable=false
+test/fixtures/*.json linguist-detectable=false

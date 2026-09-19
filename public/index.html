@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>进京证管理平台</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <span class="logo">京</span>
+        <div>
+          <h1>进京证管理平台</h1>
+          <p class="sub" id="subtitle">加载中…</p>
+        </div>
+      </div>
+      <nav class="tabs">
+        <button class="tab active" data-view="dashboard">仪表盘</button>
+        <button class="tab" data-view="tasks">定时任务</button>
+        <button class="tab" data-view="users">用户管理</button>
+      </nav>
+      <div class="actions">
+        <label class="autorefresh">
+          <input type="checkbox" id="auto-refresh" checked />
+          <span>自动刷新</span>
+          <b id="refresh-countdown"></b>
+        </label>
+        <button id="refresh-all" class="btn">刷新全部</button>
+        <button id="open-settings" class="btn ghost">设置</button>
+      </div>
+    </header>
+
+    <main>
+      <section class="view" id="view-dashboard">
+        <section class="summary" id="summary"></section>
+        <div id="users"></div>
+      </section>
+
+      <section class="view" id="view-tasks" hidden>
+        <div class="panel" id="scheduler-bar"></div>
+        <div class="panel">
+          <h2>自动办理</h2>
+          <p class="hint">
+            仅自动办理<b>六环外</b>证件。触发时机是当前六环外证件的<b>最后一天</b>到达你设定的时间，
+            例如证件有效期 6.10–6.16，则在 6.16 当天办理。<b>办理提交后官方无法取消</b>，请确认参数无误。
+            <br />
+            另外，如果某天服务没运行导致最后一天错过，证件失效后仍会自动补办一张，避免断档。
+          </p>
+          <div id="tasks"></div>
+        </div>
+        <div class="panel">
+          <h2>执行记录</h2>
+          <div id="runs"><p class="hint">暂无记录</p></div>
+        </div>
+      </section>
+
+      <section class="view" id="view-users" hidden>
+        <section class="panel">
+          <h2>添加用户</h2>
+          <p class="hint">
+            Authorization 来自抓包（请求头 <code>Authorization</code> 字段）。添加后会立即拉取该用户名下的车辆与证件状态。
+            凭证仅保存在本机数据目录，不会上传到任何第三方。
+          </p>
+          <form id="add-user" class="add-form">
+            <input id="token" type="text" placeholder="粘贴 Authorization（抓包请求头里的那串 UUID）" autocomplete="off" />
+            <input id="note" type="text" placeholder="备注（可选）" autocomplete="off" />
+            <button class="btn primary" type="submit">添加并解析</button>
+          </form>
+          <p class="error" id="add-error" hidden></p>
+        </section>
+        <div id="user-admin"></div>
+      </section>
+    </main>
+
+    <dialog id="task-dialog">
+      <form method="dialog" class="dialog-body" id="task-form">
+        <h2>自动办理设置 · <span id="task-plate"></span></h2>
+        <label class="inline"><input type="checkbox" id="task-enabled" /> 开启六环外自动办理</label>
+        <div class="warn-box" id="task-warn" hidden>
+          <b>⚠️ 六环外进京证仅允许在六环路（含）以外道路行驶。</b>
+          <p>驶入六环内等同于未办理进京证，会被电子眼抓拍处罚。请确认你的日常行程不需要进入六环内。</p>
+          <label class="inline"><input type="checkbox" id="task-warn-ack" /> 我已知晓，仍要开启自动办理</label>
+        </div>
+        <label>办理时间（每天到点检查，仅证件最后一天会真正办理）
+          <input id="task-time" type="time" value="09:00" />
+        </label>
+        <label class="inline"><input type="checkbox" id="task-makeup" /> 错过补办（服务在设定时间之后才启动时，当天仍然办理）</label>
+        <p class="hint" id="task-extra"></p>
+        <div class="dialog-actions">
+          <button class="btn ghost" value="cancel">取消</button>
+          <button class="btn primary" id="task-save" value="default">保存</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog id="params-dialog">
+      <form method="dialog" class="dialog-body" id="params-form" autocomplete="off">
+        <h2>办理参数 · <span id="params-owner"></span></h2>
+        <p class="hint">
+          这些参数会随自动办理一并提交，<b>填错会导致办到错误地址</b>。搜不到地点时可手动填写经纬度。
+        </p>
+
+        <fieldset>
+          <legend>进京目的地</legend>
+          <div class="geo-row">
+            <input id="geo-jj-keyword" type="text" placeholder="搜索地点名，例如：北京南站" />
+            <button type="button" class="btn tiny" data-geo="jjdz">搜索</button>
+          </div>
+          <div class="geo-results" id="geo-jj-results"></div>
+          <label>区县<input id="p-area" type="text" placeholder="如：朝阳区" /></label>
+          <label>详细地址<input id="p-xxdz" type="text" placeholder="由搜索自动填入，也可手写" /></label>
+          <div class="grid2">
+            <label>经度<input id="p-jjdzgdjd" type="text" placeholder="116.400000" /></label>
+            <label>纬度<input id="p-jjdzgdwd" type="text" placeholder="39.900000" /></label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>在京住址</legend>
+          <div class="geo-row">
+            <input id="geo-zj-keyword" type="text" placeholder="搜索地点名" />
+            <button type="button" class="btn tiny" data-geo="zjxxdz">搜索</button>
+          </div>
+          <div class="geo-results" id="geo-zj-results"></div>
+          <label>在京详细地址<input id="p-zjxxdz" type="text" placeholder="如：某某小区" /></label>
+          <div class="grid2">
+            <label>经度<input id="p-zjxxdzgdjd" type="text" /></label>
+            <label>纬度<input id="p-zjxxdzgdwd" type="text" /></label>
+          </div>
+        </fieldset>
+
+        <fieldset>
+          <legend>申请地与事由</legend>
+          <div class="grid2">
+            <label>申请地经度<input id="p-sqdzgdjd" type="text" value="116.4" /></label>
+            <label>申请地纬度<input id="p-sqdzgdwd" type="text" value="39.9" /></label>
+          </div>
+          <label>进京事由
+            <select id="p-jjmd">
+              <option value="01">01 自驾旅游</option>
+              <option value="02">02 看病就医</option>
+              <option value="03">03 探亲访友</option>
+              <option value="04">04 学习培训</option>
+              <option value="05">05 公务差旅</option>
+              <option value="06">06 其它</option>
+            </select>
+          </label>
+          <label>是否在京
+            <select id="p-sfzj">
+              <option value="1">是</option>
+              <option value="0">否</option>
+            </select>
+          </label>
+        </fieldset>
+
+        <p class="error" id="params-error" hidden></p>
+        <div class="dialog-actions">
+          <button class="btn ghost" value="cancel">取消</button>
+          <button class="btn primary" id="params-save" value="default">保存</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog id="notify-dialog">
+      <form method="dialog" class="dialog-body" id="notify-form">
+        <h2>通知设置 · <span id="notify-owner"></span></h2>
+        <label class="inline"><input type="checkbox" id="notify-enabled" /> 启用 Server酱推送</label>
+        <label>SendKey
+          <input id="notify-key" type="text" autocomplete="new-password" placeholder="SCT 开头的密钥，从 sct.ftqq.com 获取" />
+        </label>
+        <p class="hint">办理成功、审核未通过、自动办理失败时都会推送。保存后可以点「测试通知」验证。</p>
+        <p class="error" id="notify-error" hidden></p>
+        <div class="dialog-actions">
+          <button class="btn ghost" value="cancel">取消</button>
+          <button class="btn primary" id="notify-save" value="default">保存</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog id="settings-dialog">
+      <form method="dialog" class="dialog-body">
+        <h2>设置</h2>
+        <label>查询缓存（秒）<input id="set-cacheTtlSec" type="number" min="0" /></label>
+        <label>最小请求间隔（毫秒）<input id="set-minIntervalMs" type="number" min="0" /></label>
+        <label>页面打开时回源阈值（秒）<input id="set-viewRefreshSec" type="number" min="0" /></label>
+        <label class="inline"><input type="checkbox" id="set-autoRefreshOnView" /> 页面轮询时自动回源</label>
+        <p class="hint">
+          网页每分钟刷新一次，但只读取后端快照。<b>真正请求官方接口的次数由「查询缓存」兜底</b>：
+          快照超过缓存时长才会真的回源。调大缓存与阈值可减少调用。
+        </p>
+        <div class="dialog-actions">
+          <button class="btn ghost" value="cancel">取消</button>
+          <button class="btn primary" id="save-settings" value="default">保存</button>
+        </div>
+      </form>
+    </dialog>
+
+    <dialog id="raw-dialog">
+      <div class="dialog-body">
+        <h2>原始响应</h2>
+        <p class="hint" id="raw-meta"></p>
+        <pre id="raw-content"></pre>
+        <div class="dialog-actions"><button class="btn" onclick="document.getElementById('raw-dialog').close()">关闭</button></div>
+      </div>
+    </dialog>
+
+    <script src="/app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "name": "beijing-pass",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "进京证管理平台：多用户查询、看板与六环外自动办理",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "mock": "node server.js --mock",
+    "fixture": "node tools/make-fixture.js"
+  }
+}

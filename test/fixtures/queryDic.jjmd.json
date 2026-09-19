@@ -1,0 +1,67 @@
+{
+  "code": 200,
+  "msg": "数据字典查询成功!",
+  "data": [
+    {
+      "zdlx": "JJMD",
+      "zdbm": "01",
+      "zdz": "自驾旅游",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": []
+    },
+    {
+      "zdlx": "JJMD",
+      "zdbm": "02",
+      "zdz": "看病就医",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": []
+    },
+    {
+      "zdlx": "JJMD",
+      "zdbm": "03",
+      "zdz": "探亲访友",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": []
+    },
+    {
+      "zdlx": "JJMD",
+      "zdbm": "04",
+      "zdz": "学习培训",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": []
+    },
+    {
+      "zdlx": "JJMD",
+      "zdbm": "05",
+      "zdz": "公务差旅",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": []
+    },
+    {
+      "zdlx": "JJMD",
+      "zdbm": "06",
+      "zdz": "其它",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": []
+    }
+  ],
+  "from": "v2"
+}

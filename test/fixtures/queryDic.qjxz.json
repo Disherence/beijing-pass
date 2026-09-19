@@ -1,0 +1,3504 @@
+{
+  "code": 200,
+  "msg": "数据字典查询成功!",
+  "data": [
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "001",
+      "zdz": "东城区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00101",
+          "zdz": "东城区安定门街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00102",
+          "zdz": "东城区建国门街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00103",
+          "zdz": "东城区朝阳门街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00104",
+          "zdz": "东城区东直门街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00105",
+          "zdz": "东城区东华门街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00106",
+          "zdz": "东城区和平里街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00107",
+          "zdz": "东城区北新桥街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00108",
+          "zdz": "东城区交道口街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00109",
+          "zdz": "东城区景山街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00110",
+          "zdz": "东城区天坛街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00111",
+          "zdz": "东城区东四街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00112",
+          "zdz": "东城区东花市街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00113",
+          "zdz": "东城区前门街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00114",
+          "zdz": "东城区龙潭街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00115",
+          "zdz": "东城区永定门外街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00116",
+          "zdz": "东城区崇文门外街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00117",
+          "zdz": "东城区体育馆路街道",
+          "fjd": "001",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    },
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "002",
+      "zdz": "西城区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00201",
+          "zdz": "西城区白纸坊街道",
+          "fjd": "002",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00202",
+          "zdz": "西城区椿树街道",
+          "fjd": "002",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00203",
+          "zdz": "西城区大栅栏街道",
+          "fjd": "002",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00204",
+          "zdz": "西城区德胜街道",
+          "fjd": "002",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00205",
+          "zdz": "西城区广安门内街道",
+          "fjd": "002",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00206",
+          "zdz": "西城区广安门外街道",
+          "fjd": "002",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00207",
+          "zdz": "西城区金融街街道",
+          "fjd": "002",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00208",
+          "zdz": "西城区牛街街道",
+          "fjd": "002",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00209",
+          "zdz": "西城区什刹海街道",
+          "fjd": "002",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00210",
+          "zdz": "西城区陶然亭街道",
+          "fjd": "002",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00211",
+          "zdz": "西城区天桥街道",
+          "fjd": "002",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00212",
+          "zdz": "西城区西长安街街道",
+          "fjd": "002",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00213",
+          "zdz": "西城区新街口街道",
+          "fjd": "002",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00214",
+          "zdz": "西城区月坛街道",
+          "fjd": "002",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00215",
+          "zdz": "西城区展览路街道",
+          "fjd": "002",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    },
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "003",
+      "zdz": "朝阳区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00301",
+          "zdz": "朝阳区安贞街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00302",
+          "zdz": "朝阳区奥运村街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00303",
+          "zdz": "朝阳区八里庄街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00304",
+          "zdz": "朝阳区朝外街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00305",
+          "zdz": "朝阳区大屯街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00306",
+          "zdz": "朝阳区东湖街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00307",
+          "zdz": "朝阳区垡头街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00308",
+          "zdz": "朝阳区和平街街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00309",
+          "zdz": "朝阳区呼家楼街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00310",
+          "zdz": "朝阳区机场街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00311",
+          "zdz": "朝阳区建外街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00312",
+          "zdz": "朝阳区劲松街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00313",
+          "zdz": "酒仙桥街道办事处",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00314",
+          "zdz": "朝阳区六里屯街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00315",
+          "zdz": "朝阳区麦子店街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00316",
+          "zdz": "朝阳区潘家园街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00317",
+          "zdz": "朝阳区三里屯街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00318",
+          "zdz": "朝阳区双井街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00319",
+          "zdz": "朝阳区团结湖街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00320",
+          "zdz": "朝阳区望京街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00321",
+          "zdz": "朝阳区香河园街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00322",
+          "zdz": "朝阳区小关街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00323",
+          "zdz": "朝阳区亚运村街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00324",
+          "zdz": "朝阳区左家庄街道",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00325",
+          "zdz": "朝阳区常营地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00326",
+          "zdz": "朝阳区崔各庄地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00327",
+          "zdz": "朝阳区东坝地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00328",
+          "zdz": "朝阳区东风地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00329",
+          "zdz": "朝阳区豆各庄地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00330",
+          "zdz": "朝阳区高碑店地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00331",
+          "zdz": "朝阳区管庄地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00332",
+          "zdz": "朝阳区黑庄户地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00333",
+          "zdz": "朝阳区将台地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00334",
+          "zdz": "朝阳区金盏地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00335",
+          "zdz": "朝阳区来广营地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00336",
+          "zdz": "朝阳区南磨房地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00337",
+          "zdz": "朝阳区平房地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00338",
+          "zdz": "朝阳区三间房地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00339",
+          "zdz": "朝阳区十八里店地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00340",
+          "zdz": "朝阳区孙河地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00341",
+          "zdz": "朝阳区太阳宫地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00342",
+          "zdz": "朝阳区王四营地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00343",
+          "zdz": "朝阳区小红门地区",
+          "fjd": "003",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    },
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "004",
+      "zdz": "丰台区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00401",
+          "zdz": "丰台区大红门街道",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00402",
+          "zdz": "丰台区东高地街道",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00403",
+          "zdz": "丰台区东铁匠营街道",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00404",
+          "zdz": "丰台区方庄街道",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00405",
+          "zdz": "丰台区丰台街道",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00406",
+          "zdz": "丰台区六里桥街道",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00407",
+          "zdz": "丰台区和义街道",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00408",
+          "zdz": "丰台区马家堡街道",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00409",
+          "zdz": "丰台区南苑街道",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00410",
+          "zdz": "丰台区太平桥街道",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00411",
+          "zdz": "丰台区宛平街道",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00412",
+          "zdz": "丰台区新村街道",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00413",
+          "zdz": "丰台区右安门街道",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00414",
+          "zdz": "丰台区云岗街道",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00415",
+          "zdz": "丰台区长辛店街道",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00416",
+          "zdz": "丰台区花乡地区",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00417",
+          "zdz": "丰台区卢沟桥地区",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00418",
+          "zdz": "丰台区王佐镇",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00419",
+          "zdz": "丰台区石榴庄街道",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00420",
+          "zdz": "北宫镇人民政府",
+          "fjd": "004",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    },
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "005",
+      "zdz": "石景山区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00501",
+          "zdz": "石景山区八宝山街道",
+          "fjd": "005",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00502",
+          "zdz": "石景山区古城街道",
+          "fjd": "005",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00503",
+          "zdz": "石景山区广宁街道",
+          "fjd": "005",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00504",
+          "zdz": "石景山区八角街道",
+          "fjd": "005",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00505",
+          "zdz": "石景山区老山街道",
+          "fjd": "005",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00506",
+          "zdz": "石景山区苹果园街道",
+          "fjd": "005",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00507",
+          "zdz": "石景山区鲁谷街道",
+          "fjd": "005",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00508",
+          "zdz": "石景山区金顶街街道",
+          "fjd": "005",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00509",
+          "zdz": "石景山区五里坨街道",
+          "fjd": "005",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    },
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "006",
+      "zdz": "海淀区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00601",
+          "zdz": "海淀区甘家口街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00602",
+          "zdz": "海淀区中关村街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00603",
+          "zdz": "海淀区八里庄街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00604",
+          "zdz": "海淀区清河街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00605",
+          "zdz": "海淀区紫竹院街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00606",
+          "zdz": "海淀区花园路街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00607",
+          "zdz": "海淀区马连洼街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00608",
+          "zdz": "海淀区青龙桥街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00609",
+          "zdz": "海淀区北下关街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00610",
+          "zdz": "海淀区曙光街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00611",
+          "zdz": "海淀区万寿路街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00612",
+          "zdz": "海淀区田村路街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00613",
+          "zdz": "海淀区香山街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00614",
+          "zdz": "海淀区海淀街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00615",
+          "zdz": "海淀区北太平庄街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00616",
+          "zdz": "海淀区西三旗街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00617",
+          "zdz": "海淀区学院路街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00618",
+          "zdz": "海淀区羊坊店街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00619",
+          "zdz": "海淀区上地街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00620",
+          "zdz": "海淀区四季青地区",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00621",
+          "zdz": "海淀区东升地区",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00622",
+          "zdz": "海淀区西北旺地区",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00623",
+          "zdz": "海淀区温泉地区",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00624",
+          "zdz": "海淀区永定路街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00625",
+          "zdz": "海淀区燕园街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00626",
+          "zdz": "海淀区苏家坨地区",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00627",
+          "zdz": "海淀区上庄地区",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00628",
+          "zdz": "海淀区万柳地区（海淀镇）",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00629",
+          "zdz": "海淀区清华园街道",
+          "fjd": "006",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    },
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "007",
+      "zdz": "门头沟区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00701",
+          "zdz": "门头沟区城子街道",
+          "fjd": "007",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00702",
+          "zdz": "门头沟区大台街道",
+          "fjd": "007",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00703",
+          "zdz": "门头沟区大峪街道",
+          "fjd": "007",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00704",
+          "zdz": "门头沟区东辛房街道",
+          "fjd": "007",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00705",
+          "zdz": "门头沟区军庄镇",
+          "fjd": "007",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00706",
+          "zdz": "门头沟区龙泉地区",
+          "fjd": "007",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00707",
+          "zdz": "门头沟区妙峰山镇",
+          "fjd": "007",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00708",
+          "zdz": "门头沟区清水镇",
+          "fjd": "007",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00709",
+          "zdz": "门头沟区潭柘寺镇",
+          "fjd": "007",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00710",
+          "zdz": "门头沟区王平地区",
+          "fjd": "007",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00711",
+          "zdz": "门头沟区雁翅镇",
+          "fjd": "007",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00712",
+          "zdz": "门头沟区永定地区",
+          "fjd": "007",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00713",
+          "zdz": "门头沟区斋堂镇",
+          "fjd": "007",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    },
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "008",
+      "zdz": "房山区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00801",
+          "zdz": "房山区城关街道",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00802",
+          "zdz": "房山区拱辰街道",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00803",
+          "zdz": "房山区西潞街道",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00804",
+          "zdz": "房山区大安山乡",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00805",
+          "zdz": "房山区大石窝镇",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00806",
+          "zdz": "房山区窦店镇",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00807",
+          "zdz": "房山区佛子庄乡",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00808",
+          "zdz": "房山区韩村河镇",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00809",
+          "zdz": "房山区河北镇",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00810",
+          "zdz": "房山区良乡地区",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00811",
+          "zdz": "房山区琉璃河地区",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00812",
+          "zdz": "房山区南窖乡",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00813",
+          "zdz": "房山区蒲洼乡",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00814",
+          "zdz": "房山区青龙湖镇",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00815",
+          "zdz": "房山区十渡镇",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00816",
+          "zdz": "房山区石楼镇",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00817",
+          "zdz": "房山区史家营乡",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00818",
+          "zdz": "房山区霞云岭乡",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00819",
+          "zdz": "房山区阎村镇",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00820",
+          "zdz": "房山区张坊镇",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00821",
+          "zdz": "房山区长沟镇",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00822",
+          "zdz": "房山区长阳镇",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00823",
+          "zdz": "房山区周口店地区",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00824",
+          "zdz": "房山区向阳街道",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00825",
+          "zdz": "房山区迎风街道",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00826",
+          "zdz": "房山区东风街道",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00827",
+          "zdz": "房山区星城街道",
+          "fjd": "008",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    },
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "009",
+      "zdz": "通州区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00901",
+          "zdz": "通州区通运街道",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00902",
+          "zdz": "通州区潞源街道",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00903",
+          "zdz": "通州区北苑街道",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00904",
+          "zdz": "通州区新华街道",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00905",
+          "zdz": "通州区玉桥街道",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00906",
+          "zdz": "通州区中仓街道",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00907",
+          "zdz": "通州区潞城镇",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00908",
+          "zdz": "通州区梨园地区",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00909",
+          "zdz": "通州区漷县镇",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00910",
+          "zdz": "通州区马驹桥镇",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00911",
+          "zdz": "通州区宋庄镇",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00912",
+          "zdz": "通州区台湖镇",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00913",
+          "zdz": "通州区西集镇",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00914",
+          "zdz": "通州区永乐店镇",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00915",
+          "zdz": "通州区永顺地区",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00916",
+          "zdz": "通州区于家务乡",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "00917",
+          "zdz": "通州区张家湾镇",
+          "fjd": "009",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    },
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "010",
+      "zdz": "顺义区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01001",
+          "zdz": "顺义区光明街道",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01002",
+          "zdz": "顺义区空港街道",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01003",
+          "zdz": "顺义区胜利街道",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01004",
+          "zdz": "顺义区石园街道",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01005",
+          "zdz": "顺义区双丰街道",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01006",
+          "zdz": "顺义区旺泉街道",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01007",
+          "zdz": "顺义区北石槽镇",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01008",
+          "zdz": "顺义区北务镇",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01009",
+          "zdz": "顺义区北小营镇",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01010",
+          "zdz": "顺义区大孙各庄镇",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01011",
+          "zdz": "顺义区高丽营镇",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01012",
+          "zdz": "顺义区后沙峪地区",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01013",
+          "zdz": "顺义区李桥镇",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01014",
+          "zdz": "顺义区李遂镇",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01015",
+          "zdz": "顺义区龙湾屯镇",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01016",
+          "zdz": "顺义区马坡地区",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01017",
+          "zdz": "顺义区木林镇",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01018",
+          "zdz": "顺义区南彩镇",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01019",
+          "zdz": "顺义区南法信地区",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01020",
+          "zdz": "顺义区牛栏山地区",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01021",
+          "zdz": "顺义区仁和镇",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01022",
+          "zdz": "顺义区天竺地区",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01023",
+          "zdz": "顺义区杨镇地区",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01024",
+          "zdz": "顺义区张镇",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01025",
+          "zdz": "顺义区赵全营镇",
+          "fjd": "010",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    },
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "011",
+      "zdz": "昌平区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01101",
+          "zdz": "昌平区史各庄街道",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01102",
+          "zdz": "昌平区龙泽园街道",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01103",
+          "zdz": "昌平区回龙观街道",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01104",
+          "zdz": "昌平区城北街道",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01105",
+          "zdz": "昌平区城南街道",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01106",
+          "zdz": "昌平区霍营街道",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01107",
+          "zdz": "昌平区天通苑北街道",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01108",
+          "zdz": "昌平区天通苑南街道",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01109",
+          "zdz": "昌平区百善镇",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01110",
+          "zdz": "昌平区北七家镇",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01111",
+          "zdz": "昌平区崔村镇",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01112",
+          "zdz": "昌平区东小口地区",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01113",
+          "zdz": "昌平区流村镇",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01114",
+          "zdz": "昌平区马池口地区",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01115",
+          "zdz": "昌平区南口地区",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01116",
+          "zdz": "昌平区南邵镇",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01117",
+          "zdz": "昌平区沙河地区",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01118",
+          "zdz": "昌平区十三陵镇",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01119",
+          "zdz": "昌平区小汤山镇",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01120",
+          "zdz": "昌平区兴寿镇",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01121",
+          "zdz": "昌平区延寿镇",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01122",
+          "zdz": "昌平区阳坊镇",
+          "fjd": "011",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    },
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "012",
+      "zdz": "大兴区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01201",
+          "zdz": "大兴区高米店街道",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01202",
+          "zdz": "大兴区观音寺街道",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01203",
+          "zdz": "大兴区林校路街道",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01204",
+          "zdz": "大兴区清源街道",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01205",
+          "zdz": "大兴区天宫院街道",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01206",
+          "zdz": "大兴区兴丰街道",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01207",
+          "zdz": "大兴区安定镇",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01208",
+          "zdz": "大兴区北臧村镇",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01209",
+          "zdz": "大兴区采育镇",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01210",
+          "zdz": "大兴区黄村地区",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01211",
+          "zdz": "大兴区旧宫地区",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01212",
+          "zdz": "大兴区礼贤镇",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01213",
+          "zdz": "大兴区庞各庄镇",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01214",
+          "zdz": "大兴区青云店镇",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01215",
+          "zdz": "大兴区魏善庄镇",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01216",
+          "zdz": "大兴区西红门地区",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01217",
+          "zdz": "大兴区亦庄地区",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01218",
+          "zdz": "大兴区瀛海地区",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01219",
+          "zdz": "大兴区榆垡镇",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01220",
+          "zdz": "大兴区长子营镇",
+          "fjd": "012",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    },
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "013",
+      "zdz": "怀柔区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01301",
+          "zdz": "怀柔区龙山街道",
+          "fjd": "013",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01302",
+          "zdz": "怀柔区泉河街道",
+          "fjd": "013",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01303",
+          "zdz": "怀柔区宝山镇",
+          "fjd": "013",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01304",
+          "zdz": "怀柔区北房镇",
+          "fjd": "013",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01305",
+          "zdz": "怀柔区渤海镇",
+          "fjd": "013",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01306",
+          "zdz": "怀柔区怀北镇",
+          "fjd": "013",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01307",
+          "zdz": "怀柔区怀柔镇",
+          "fjd": "013",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01308",
+          "zdz": "怀柔区九渡河镇",
+          "fjd": "013",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01309",
+          "zdz": "怀柔区喇叭沟门满族乡",
+          "fjd": "013",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01310",
+          "zdz": "怀柔区琉璃庙镇",
+          "fjd": "013",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01311",
+          "zdz": "怀柔区庙城镇",
+          "fjd": "013",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01312",
+          "zdz": "怀柔区桥梓镇",
+          "fjd": "013",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01313",
+          "zdz": "怀柔区汤河口镇",
+          "fjd": "013",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01314",
+          "zdz": "怀柔区雁栖镇",
+          "fjd": "013",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01315",
+          "zdz": "怀柔区杨宋镇",
+          "fjd": "013",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01316",
+          "zdz": "怀柔区长哨营满族乡",
+          "fjd": "013",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    },
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "014",
+      "zdz": "平谷区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01401",
+          "zdz": "平谷区滨河街道",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01402",
+          "zdz": "平谷区兴谷街道",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01403",
+          "zdz": "平谷区黄松峪乡",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01404",
+          "zdz": "平谷区南独乐河镇",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01405",
+          "zdz": "平谷区大华山镇",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01406",
+          "zdz": "平谷区大兴庄镇",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01407",
+          "zdz": "平谷区东高村镇",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01408",
+          "zdz": "平谷区金海湖地区",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01409",
+          "zdz": "平谷区刘家店镇",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01410",
+          "zdz": "平谷区马昌营镇",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01411",
+          "zdz": "平谷区马坊地区",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01412",
+          "zdz": "平谷区渔阳地区（平谷镇）",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01413",
+          "zdz": "平谷区山东庄镇",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01414",
+          "zdz": "平谷区王辛庄镇",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01415",
+          "zdz": "平谷区夏各庄镇",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01416",
+          "zdz": "平谷区熊儿寨乡",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01417",
+          "zdz": "平谷区峪口地区",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01418",
+          "zdz": "平谷区镇罗营镇",
+          "fjd": "014",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    },
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "015",
+      "zdz": "密云区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01501",
+          "zdz": "密云区鼓楼街道",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01502",
+          "zdz": "密云区果园街道",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01503",
+          "zdz": "密云区檀营地区",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01504",
+          "zdz": "密云区北庄镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01505",
+          "zdz": "密云区不老屯镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01506",
+          "zdz": "密云区大城子镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01507",
+          "zdz": "密云区东邵渠镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01508",
+          "zdz": "密云区冯家峪镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01509",
+          "zdz": "密云区高岭镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01510",
+          "zdz": "密云区古北口镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01511",
+          "zdz": "密云区河南寨镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01512",
+          "zdz": "密云区巨各庄镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01513",
+          "zdz": "密云区密云镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01514",
+          "zdz": "密云区穆家峪镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01515",
+          "zdz": "密云区十里堡镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01516",
+          "zdz": "密云区石城镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01517",
+          "zdz": "密云区太师屯镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01518",
+          "zdz": "密云区西田各庄镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01519",
+          "zdz": "密云区溪翁庄镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01520",
+          "zdz": "密云区新城子镇",
+          "fjd": "015",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    },
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "016",
+      "zdz": "延庆区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01601",
+          "zdz": "延庆区百泉街道",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01602",
+          "zdz": "延庆区香水园街道",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01603",
+          "zdz": "延庆区儒林街道",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01604",
+          "zdz": "延庆区延庆镇",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01605",
+          "zdz": "延庆区康庄镇",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01606",
+          "zdz": "延庆区八达岭镇",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01607",
+          "zdz": "延庆区永宁镇",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01608",
+          "zdz": "延庆区旧县镇",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01609",
+          "zdz": "延庆区张山营镇",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01610",
+          "zdz": "延庆区四海镇",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01611",
+          "zdz": "延庆区千家店镇",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01612",
+          "zdz": "延庆区大榆树镇",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01613",
+          "zdz": "延庆区沈家营镇",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01614",
+          "zdz": "延庆区井庄镇",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01615",
+          "zdz": "延庆区大庄科乡",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01616",
+          "zdz": "延庆区刘斌堡乡",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01617",
+          "zdz": "延庆区香营乡",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01618",
+          "zdz": "延庆区珍珠泉乡",
+          "fjd": "016",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    },
+    {
+      "zdlx": "QJXZ",
+      "zdbm": "017",
+      "zdz": "开发区",
+      "fjd": null,
+      "kz1": null,
+      "kz2": null,
+      "kz3": null,
+      "zdzj": [
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01701",
+          "zdz": "开发区荣华街道",
+          "fjd": "017",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        },
+        {
+          "zdlx": "QJXZ",
+          "zdbm": "01702",
+          "zdz": "开发区博兴街道",
+          "fjd": "017",
+          "kz1": null,
+          "kz2": null,
+          "kz3": null,
+          "zdzj": []
+        }
+      ]
+    }
+  ],
+  "from": "v2"
+}

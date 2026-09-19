@@ -1,0 +1,18 @@
+# 抓包文件包含身份证、手机号、车牌、住址与 Authorization，绝对不要提交
+*.har
+*.har.gz
+
+# 运行时数据：凭证、快照、日志、备份
+data/
+*.log
+
+# 依赖与临时产物
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
+
+# 本地覆盖配置
+.env
+.env.local
+config.local.json

@@ -1,0 +1,28 @@
+[Unit]
+Description=进京证管理平台 (beijing-pass)
+Documentation=https://github.com/Disherence/beijing-pass
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=jjz
+Group=jjz
+WorkingDirectory=/opt/beijing-pass
+ExecStart=/usr/bin/node server.js --port=3000 --data=/opt/beijing-pass/data
+Restart=always
+RestartSec=5
+
+# 应用内部按 Asia/Shanghai 计算日期，这里设置只影响日志可读性
+Environment=TZ=Asia/Shanghai
+Environment=NODE_ENV=production
+
+# 基础加固：应用只需要写 data 目录
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=full
+ProtectHome=true
+ReadWritePaths=/opt/beijing-pass/data
+
+[Install]
+WantedBy=multi-user.target
